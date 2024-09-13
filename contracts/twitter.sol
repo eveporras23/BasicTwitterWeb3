@@ -1,13 +1,5 @@
 // SPDX-License-Identifier: MIT
 
-// 1️⃣ Add id to Tweet Struct to make every Tweet Unique
-// 2️⃣ Set the id to be the Tweet[] length 
-// HINT: you do it in the createTweet function
-// 3️⃣ Add a function to like the tweet
-// HINT: there should be 2 parameters, id and author
-// 4️⃣ Add a function to unlike the tweet
-// HINT: make sure you can unlike only if likes count is greater then 0
-// 4️⃣ Mark both functions external
 
 pragma solidity ^0.8.0;
 
